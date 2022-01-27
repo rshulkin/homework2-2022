@@ -100,14 +100,13 @@ span{
 footer{
   background: linear-gradient(90deg, #000000 0%, #0000ff 25%, 
   #0066ff 70%, #000000 100%);
-  padding: 10px, 10px, 10px, 0px;
   
 }
 
 footer p{
   font-size: 20px;
   text-align: center;
-  padding-top: 10px; 
-  padding-right: 10px;
-  padding-bottom: 10px;
+  padding-top: 10px;
+  padding-bottom:10px; 
+  padding-right: 10px; 
 }
