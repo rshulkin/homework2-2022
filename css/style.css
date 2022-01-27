@@ -50,8 +50,8 @@ div{
   background-color: #ff0000;
   text-align: right;
   margin-left: 50px;
-  border-left: 10px solid; 
-  border-bottom: 3px solid ;
+  border-left: 10px solid #ffffffff; 
+  border-bottom: 3px solid #ffffffff;
 
 }
 
@@ -59,8 +59,8 @@ div{
   background-color: #0000ff;
   text-align: left;
   margin-right: 50px;
-  border-right: 10px solid ; 
-  border-bottom: 3px solid ;
+  border-right: 10px solid #ffffff; 
+  border-bottom: 3px solid #ffffffff;
 
 }
 
@@ -68,8 +68,8 @@ div{
   background-color: #ffff00;
   text-align: right;
   margin-left: 50px;
-  border-left: 10px solid ; 
-  border-bottom: 3px solid ;
+  border-left: 10px solid #ffffffff; 
+  border-bottom: 3px solid #ffffffff;
 }
 
 .yellow h2{
@@ -86,8 +86,8 @@ div{
   background-color: #008500;
   text-align: left;
   margin-right: 50px;
-  border-right: 10px solid ; 
-  border-bottom: 3px solid ;
+  border-right: 10px solid #ffffffff; 
+  border-bottom: 3px solid #ffffffff;
 
 }
 
@@ -100,6 +100,7 @@ span{
 footer{
   background: linear-gradient(90deg, #000000 0%, #0000ff 25%, 
   #0066ff 70%, #000000 100%);
+  padding: 10px, 10px, 10px, 0px;
   
 }
 
